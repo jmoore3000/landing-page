@@ -1,2 +1,2 @@
 # landing-page
-In this exercise i will attempt to recreate a given landing page.  *important* i have no idea what im doing.
+In this exercise I will attempt to recreate a given landing page.  I will be paying particular attention to how I'm using flexboxes to format this landing page. *important* I have no idea what im doing, but im getting there.
