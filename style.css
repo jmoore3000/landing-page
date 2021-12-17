@@ -8,7 +8,7 @@
 .header{
     display: flex;
     color: #f9faf8;
-    padding-left: 60px;
+    padding-left: 120px;
     font-size: 24px;
     font-weight: bold;
 }
@@ -18,7 +18,7 @@
     justify-content: flex-end;
     align-items: center;
     margin: 10px;
-    padding-right: 60px;
+    padding-right: 120px;
     font-size: 18px;
     
 }
@@ -27,4 +27,27 @@ a{
     text-decoration: none;
     color: #e5e7eb;
     padding: 10px;
+}
+
+.image{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+    padding: 120px;
+}
+
+.text{
+    color: #e5e7eb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+    
+}
+
+h1{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    padding-right: 60px;
 }
