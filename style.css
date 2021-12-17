@@ -5,6 +5,7 @@
     flex-flow: row wrap;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 .header{
     display: flex;
     color: #f9faf8;
@@ -20,7 +21,6 @@
     margin: 10px;
     padding-right: 120px;
     font-size: 18px;
-    
 }
 
 a{
@@ -41,8 +41,7 @@ a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     flex-flow: row wrap;
     justify-content: space-around;
-
-    
+    padding-left: 20px;
 }
 
 h1{
@@ -62,6 +61,19 @@ h1{
     width: 100px;
     height: 30px;
     border: 0;
+}
 
-   
+.header1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.pictures{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
 }
