@@ -96,6 +96,7 @@ h1{
 .caption{
     display: flex;
     justify-content: space-around;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
 }
 
