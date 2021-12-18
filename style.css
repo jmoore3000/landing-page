@@ -72,8 +72,30 @@ h1{
     justify-content: center;
 }
 
+
 .pictures{
     display: flex;
-    justify-content: space-around;
     justify-content: center;
+    justify-content:  space-around;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 20px;
+    
 }
+
+.imgb {
+    border-radius: 8px;
+    border: solid 4px;
+    border-color: #3882f6;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+.caption{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
