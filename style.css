@@ -102,3 +102,28 @@ h1{
     text-align: center;
 }
 
+.reviewb{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.review{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin: 200px;
+    margin-bottom: 0px;
+}
+
+.quote{
+    margin-top: 10px;
+    margin-left: 900px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
