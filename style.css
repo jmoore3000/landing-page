@@ -94,9 +94,11 @@ h1{
 }
 
 .caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: space-around;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+    text-align: center;
 }
 
